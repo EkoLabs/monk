@@ -1,3 +1,5 @@
+A maintenance fork that keeps Monk and the latest `mongodb` driver.
+
 <h1 align="center">Monk</h1>
 
 <div align="center">
