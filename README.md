@@ -1,4 +1,4 @@
-A maintenance fork that keeps Monk and the latest `mongodb` driver.
+A maintenance fork that keeps Monk on the latest `mongodb` driver.
 
 <h1 align="center">Monk</h1>
 
